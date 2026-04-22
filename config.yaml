@@ -1,8 +1,0 @@
-model_name: "A-IO-100B"
-version: "1.0.0"
-architecture: "Mixture-of-Experts"
-parameters_total: "100B"
-experts_count: 16
-top_k_active: 2
-dataset_source: "Wikimedia-Corpus-English"
-precision: "bfloat16"
